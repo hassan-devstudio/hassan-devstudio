@@ -12,34 +12,43 @@ I build high-performance mobile and web applications with a focus on scalability
 - 🤖 **AI Integration:** Building intelligent features using OpenAI & Gemini APIs
 - 🔥 **Performance Focused:** Optimization, scalable architecture, and state profiling
 - 🎯 **UI/UX Fidelity:** Passionate about clear design patterns and smooth animations
-- 👨‍🏫 **Community:** Mentoring developers and sharing knowledge on modern JavaScript
 
 ---
 
-## 🛠️ Technical Ecosystem & Skill Matrices
+## 🛠️ Technical Ecosystem
 
 ### 📱 Mobile Development & Native Architecture
-* **Frameworks:** React Native, Expo, EAS Build
-* **Performance & Core:** Native Modules (JSI), Memory Management, FlatList Profiling
-* **System Integration:** Push Notifications (FCM), Deep Linking, Biometric Authentication
-* **Hardware & Storage:** Camera/Sensors API, Offline Storage & MMKV caching structures
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
+![Android Studio](https://img.shields.io/badge/android%20studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB.svg?style=for-the-badge&logo=Xcode&logoColor=white)
+
+* **Features Built:** Push Notifications (FCM), Deep Linking, Biometric Auth, Offline Storage (MMKV), Hardware Camera & Sensor APIs.
 
 ### 💻 Frontend & State Architecture
-* **Languages:** TypeScript, JavaScript (ES6+)
-* **Web Frameworks:** React, Next.js (SSR / Static Generation)
-* **State Management:** Zustand, TanStack Query (React Query), Redux Toolkit, Context API
-* **Styling Systems:** Tailwind CSS, HTML5, CSS3, Bootstrap
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+* **State & Data:** Zustand, TanStack Query (React Query), Redux Toolkit, Context API.
 
 ### ☁️ Backend, Cloud & AI Systems
-* **Server Runtime:** Node.js, Express, NestJS (Enterprise Design Patterns)
-* **Cloud Solutions:** Firebase Ecosystem (Cloud Firestore, Realtime Database, Cloud Functions)
-* **Database & APIs:** RESTful API Design, MongoDB, MySQL
-* **Intelligence & Tooling:** OpenAI & Gemini API Orchestration, Prompt Engineering, Stripe Payments, Google Maps Platform
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)
+
+* **Integrations:** Google Gemini API, Stripe Payment Gateway, Google Maps Platform, Twilio OTP Engine.
 
 ### 🧰 DevOps & Engineering Tools
-* **Version Control & Client:** Git, GitHub Advanced Workflows
-* **IDE & Design:** VS Code, Android Studio, Xcode, Figma (Pixel-Perfect UI/UX Translation)
-* **Testing & Inspection:** Postman API Suite, Network Monitoring
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
@@ -55,20 +64,6 @@ I build high-performance mobile and web applications with a focus on scalability
 - Set up real-time workflows and push notification triggers via **Firebase Cloud Messaging (FCM)**.
 - Integrated **OpenAI** and **Google Gemini** endpoints to power contextual intelligence features.
 - Audited app performance bottlenecks to improve frame rates, list rendering overhead (`FlatList`), and layout transitions.
-
----
-
-## 💡 What I Do & Current Focus
-
-### 📱 Mobile & Web Engineering
-- **Cross-Platform Delivery:** Polished applications ready for deployment on App Store & Google Play.
-- **Rendering & Optimizations:** Keeping components lightweight, minimizing state updates, and mastering the React Native New Architecture lifecycle.
-- **Web Layouts:** Building accessible, SEO-optimized web tools using Next.js with Server-Side Rendering (SSR).
-
-### ⚙️ Systems & Intelligence
-- **Backend API Design:** Robust REST APIs engineered with enterprise architectures using NestJS and Node.js ecosystems.
-- **AI Automation:** Implementing intelligent workflows, prompt engineering, and building context-aware agents.
-- **Current Technical R&D:** Deep dives into Retrieval-Augmented Generation (RAG) models, autonomous AI agents, and horizontal SaaS scaling.
 
 ---
 
