@@ -67,22 +67,6 @@ I build high-performance mobile and web applications with a focus on scalability
 
 ---
 
-## 📊 GitHub Performance Data
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=hassan426&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Hassan's GitHub Metrics" width="48%" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=hassan426&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Hassan's Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=hassan426&theme=dark&hide_border=false" alt="Hassan's Streak Tracker" width="97%" />
-</p>
-
-### 🏆 Workspace Trophies
-![](https://github-profile-trophy.vercel.app/?username=hassan426&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
 ## 🤝 Let's Connect & Collaborate
 I’m always open to talking about open-source projects, SaaS platforms, or custom automation builds.
 
