@@ -6,7 +6,7 @@ I build high-performance mobile and web applications with a focus on scalability
 ---
 
 ## 🧠 About Me
-- 📱 **4+ Years Experience** building cross-platform mobile apps (React Native & Expo)
+- 📱 **2+ Years Experience** building cross-platform mobile apps (React Native & Expo)
 - 🌐 **Strong Experience** with modern React.js & Next.js web applications
 - ⚙️ **Backend Expertise** writing clean APIs in Node.js & NestJS
 - 🤖 **AI Integration:** Building intelligent features using OpenAI & Gemini APIs
@@ -54,8 +54,8 @@ I build high-performance mobile and web applications with a focus on scalability
 
 ## 💼 Professional Experience
 
-### 🏢 React Native & React Developer — **Appminds**
-*Dec 2022 – Present*
+### 🏢 React Native & React Developer — **TexhXpert**
+*Aug 2023 – Present*
 
 - Built and shipped scalable mobile & web apps using **React Native & React.js (TypeScript)**.
 - Designed highly reusable interface components and strictly decoupled architecture frameworks.
