@@ -1,131 +1,303 @@
 # 👋 Hi, I'm Muhammad Hassan
-### 🚀 Frontend Engineer | React Native Specialist | AI Enthusiast
 
-Frontend Engineer with **3+ years of experience** specializing in React Native, building scalable, high-performance cross-platform mobile applications with TypeScript and Expo. Experienced in REST API integration, cloud services (Firebase, Supabase, AWS), and integrating AI capabilities via the OpenAI and Google Gemini APIs into production features.
+### 🚀 Frontend Engineer | React.js | React Native | TypeScript
+
+Results-driven **Frontend Engineer with 3+ years of experience** building and shipping scalable, production-grade applications using **React Native, React.js, and TypeScript** across web, iOS, and Android.
+
+Specialized in **performance optimization, AI-powered features, REST API integrations, cloud services, and modern frontend architecture**, with hands-on experience integrating **OpenAI and Google Gemini APIs, Firebase, AWS, Supabase, and MongoDB**.
 
 ---
 
 ## 🧠 About Me
-- 📱 **3+ Years Experience** building cross-platform mobile apps (React Native & Expo)
-- ⚙️ **Backend & Cloud:** Firebase, Supabase, Google Cloud Functions, AWS
-- 🤖 **AI Integration:** Building intelligent features using OpenAI & Gemini APIs + Prompt Engineering
-- 🔥 **Performance Focused:** Rendering optimization, `FlatList` handling, and profiling with Flipper
-- 🧪 **Quality Focused:** Unit & integration testing with Jest
-- 🎯 **UI/UX Fidelity:** Clean, reusable architecture and smooth animations
+
+* 📱 **3+ Years Experience** building production-grade applications across mobile and web
+* ⚛️ **Frontend:** React Native, React.js, Next.js, TypeScript, JavaScript
+* 🎨 **Modern UI:** Tailwind CSS, shadcn/ui, responsive design, accessibility
+* ☁️ **Cloud & Backend:** Firebase, Supabase, AWS, MongoDB, Google Cloud Functions
+* 🤖 **AI Integration:** OpenAI API, Google Gemini API, Passio AI & Prompt Engineering
+* ⚡ **Performance:** Rendering optimization, `FlatList`, navigation, state management & data fetching
+* 🧪 **Quality:** Unit & integration testing with Jest, debugging & performance profiling with Flipper
+* 🔐 **Security:** JWT, OAuth, Firebase Authentication & Role-Based Access Control (RBAC)
+* 🚀 **Deployment:** Expo EAS Build & Submit, iOS App Store, Google Play & Vercel
 
 ---
 
 ## 🛠️ Technical Ecosystem
 
-### 📱 Mobile Development & Native Architecture
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
-![Android Studio](https://img.shields.io/badge/android%20studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB.svg?style=for-the-badge&logo=Xcode&logoColor=white)
+### 📱 Mobile Development
 
-* **Libraries:** NativeBase (Gluestack UI), React Native Elements, React Navigation, React Native Reanimated, React Native Gesture Handler
-* **Features Built:** Push Notifications (FCM), Deep Linking, Biometric Auth, Offline Storage (AsyncStorage/MMKV), Camera & Image Picker, Google Maps & Geolocation
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
+![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge\&logo=expo\&logoColor=#D04A37)
+![Android Studio](https://img.shields.io/badge/android%20studio-%233DDC84.svg?style=for-the-badge\&logo=android-studio\&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB.svg?style=for-the-badge\&logo=Xcode\&logoColor=white)
 
-### 💻 Frontend & State Architecture
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+**Technologies:**
 
-* **State & Data:** Redux, Context API, Zustand, TanStack Query (React Query), Axios
+* React Native
+* Expo
+* React Navigation
+* React Native Reanimated
+* React Native Gesture Handler
+* Camera & Image Picker
+* Deep Linking
+* Biometric Authentication
+* AsyncStorage & MMKV
+* Google Maps
+* Geolocation
+* Google Places API
 
-### ☁️ Backend, Cloud & AI Systems
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
-![Supabase](https://img.shields.io/badge/supabase-%233FCF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)
+---
 
-* **Auth:** JWT Authentication, Firebase Authentication, OAuth, Role-Based Access Control (RBAC)
-* **Integrations:** Google Gemini API, Stripe, Twilio (OTP), Socket.io, Typesense, Google AdMob, Google Cloud Functions
+### 💻 Frontend & Web Development
 
-### 🧰 DevOps & Engineering Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge\&logo=next.js\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
 
-* **Testing & Debugging:** Jest, Flipper
-* **Deployment:** EAS Build (Expo), iOS App Store & Google Play
+**Technologies & Architecture:**
 
-### 📚 Currently Learning
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+* React.js
+* Next.js
+* TypeScript
+* JavaScript (ES6+)
+* HTML5
+* CSS3
+* Tailwind CSS
+* shadcn/ui
+* Server-Side Rendering (SSR)
+* Static Site Generation (SSG)
+* SEO Optimization
+* Responsive Web Design
+* Progressive Web Apps (PWA)
+* WebSockets & Real-Time Applications
+* File Uploads & Browser APIs
+* Accessibility (WCAG)
 
-* Expanding into backend development with **Node.js**, aiming to grow into a full-stack role alongside my React Native expertise.
+---
+
+### 🧠 State Management & Data Fetching
+
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge\&logo=redux\&logoColor=white)
+
+* Redux
+* Context API
+* Zustand
+* TanStack Query (React Query)
+* Axios
+* REST APIs
+* Pagination
+* Error Handling
+* Real-Time Data
+
+---
+
+### ☁️ Backend, Cloud & Authentication
+
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge\&logo=firebase\&logoColor=white)
+![Supabase](https://img.shields.io/badge/supabase-%233FCF8E.svg?style=for-the-badge\&logo=supabase\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
+
+**Backend & Data:**
+
+* Firebase
+* Supabase
+* MongoDB
+* Google Cloud Functions
+* AWS
+
+**Authentication & Authorization:**
+
+* JWT Authentication
+* Firebase Authentication
+* OAuth
+* Role-Based Access Control (RBAC)
+
+---
+
+### 🤖 AI & Intelligent Features
+
+![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge\&logo=openai\&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge\&logo=google\&logoColor=white)
+
+* OpenAI API
+* Google Gemini API
+* Passio AI — Food Recognition
+* Prompt Engineering
+* AI-powered assistants
+* Context-aware chatbots
+* Intelligent content generation & recommendations
+
+---
+
+### 🔌 APIs & Third-Party Integrations
+
+* REST APIs
+* Axios
+* Socket.io
+* Stripe
+* Twilio
+* Typesense
+* Google AdMob
+* Google Maps
+* Google Places API
+* Google Cloud Functions
+
+---
+
+### 🧰 Engineering, Testing & DevOps
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+
+**Testing & Debugging:**
+
+* Jest
+* Flipper
+* Chrome DevTools
+
+**Development Tools:**
+
+* Git
+* GitHub
+* Postman
+* VS Code
+* Xcode
+* Android Studio
+
+**Deployment & Cloud:**
+
+* Expo EAS Build & Submit
+* iOS App Store
+* Google Play
+* Vercel
+* AWS
+* CI/CD
 
 ---
 
 ## 💼 Professional Experience
 
 ### 🏢 Software Engineer (React Native & Frontend) — **TechXpert**
-*Jul 2023 – Present*
 
-- Developed and maintained scalable cross-platform mobile applications using **React Native with TypeScript and Expo**.
-- Developed an AI chatbot feature using React Native and the **OpenAI API** for conversational, context-aware user assistance.
-- Built clean, reusable, high-performance UI architectures using **NativeBase (Gluestack)** and React Native Elements.
-- Managed application state using **Redux, Context API, and Zustand** for predictable, scalable data flow.
-- Implemented secure authentication including **JWT-based login and RBAC**.
-- Integrated **Stripe** for secure in-app payment processing, and **Twilio (OTP)** with **Firebase Cloud Messaging** for real-time notifications.
-- Worked with **AI APIs (OpenAI, Google Gemini)** and **Google Cloud Functions** to build intelligent, serverless features.
-- Optimized app performance (rendering, `FlatList`, navigation) and used **Flipper** for debugging and profiling.
-- Wrote unit and integration tests with **Jest** to catch regressions and improve release reliability.
-- Managed release cycles and deployed apps to **iOS App Store and Google Play**, with backend infrastructure on **AWS**.
-- Integrated **Typesense** for fast in-app search, and **Google AdMob** for monetization.
+**Jul 2023 – Present**
+
+* Developed and maintained scalable, high-performance cross-platform mobile applications using **React Native, TypeScript, and Expo**.
+* Developed responsive **web applications and admin dashboards** using **React.js, Next.js, TypeScript**, and reusable component-based architecture.
+* Implemented scalable state management using **Redux, Context API, and Zustand**.
+* Implemented secure authentication and authorization using **JWT, OAuth, Firebase Authentication, and RBAC**.
+* Developed **AI-powered features**, including a context-aware chatbot, by integrating **OpenAI and Google Gemini APIs**.
+* Integrated **Firebase services, Google Cloud Functions, push notifications, real-time data, and cloud storage**.
+* Integrated REST APIs and third-party services including **Stripe** for payments, **Twilio** for OTP verification, **Typesense** for search, and **Google AdMob** for monetization.
+* Implemented data fetching, pagination, error handling, and real-time application functionality.
+* Optimized application performance by improving **component rendering, FlatList performance, navigation, state management, and data fetching**.
+* Integrated **Google Maps, Geolocation, and Google Places API** for location-based features and navigation.
+* Wrote **unit and integration tests using Jest**, performed debugging and performance profiling, and managed production releases.
+* Managed deployments for **iOS, Android, and web applications**.
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 📝 Memendo — Notes, Tasks & AI
-`React Native` `TypeScript` `Redux` `Firebase`
-- Cross-platform productivity app with notes, tasks, reminders, and calendar.
-- Integrated AI features, push notifications, and offline data synchronization.
-- Jest tests across core task and sync features; optimized performance and secure cloud data management.
+
+`React Native` `Next.js` `TypeScript` `Redux` `Firebase`
+
+A cross-platform productivity platform combining mobile and web experiences.
+
+* 📚 Built a productivity application using **React Native for mobile** and **Next.js for web**.
+* 📝 Unified **notes, tasks, files, and calendar** functionality in one platform.
+* 🧩 Built a block-based editor supporting **15+ content types**.
+* 🤖 Integrated an **AI Assistant** to summarize notes, suggest categories, and generate tasks directly from note content.
+* 🔄 Implemented **real-time cross-device synchronization** with offline support.
+* 📷 Added camera-based **document scanning to PDF**.
+* 📄 Implemented **PDF and Markdown export**.
+* 🔎 Built categorization and search functionality using **folders, tags, and cross-content search**.
+* 📅 Added calendar-based reminders and recurring tasks.
+* 🧪 Wrote unit and integration tests using **Jest**.
+* 🔐 Implemented encrypted cloud storage.
+* ⚡ Optimized application performance for a smooth cross-platform experience.
+
+---
 
 ### 🌸 Bestie — Women's Health & Cycle Tracking App
-`React Native` `TypeScript` `REST APIs`
-- Cross-platform cycle tracking and wellness application.
-- Secure REST API integration for authentication, health tracking, and personalized recommendations.
-- MongoDB for securely storing and querying sensitive health data.
+
+`React Native` `TypeScript` `REST APIs` `MongoDB`
+
+A cross-platform women's health, wellness, and cycle tracking application.
+
+* 🌸 Developed a cross-platform cycle tracking and wellness application using **React Native**.
+* 🔐 Integrated secure **REST APIs** for authentication and health tracking.
+* 💡 Implemented personalized recommendations based on user health data.
+* 🗄️ Used **MongoDB** to securely store and query sensitive health tracking data and user records.
+* 🔔 Integrated notifications to keep users informed.
+* ⚡ Optimized application performance for a smooth user experience.
+
+---
 
 ### 🏥 InsytCare — Home Healthcare Management
-`React Native` `Firebase` `TypeScript` `Google Maps`
-- Caregiver and patient app integrated with an admin dashboard for appointment management.
-- Appointment scheduling, digital signature verification, real-time chat (Socket.io), and push notifications.
-- Firebase Authentication, Firestore, and Google Maps for secure data and live location tracking.
-- Published to the iOS App Store and Google Play.
+
+`React Native` `React.js` `Firebase` `TypeScript` `Google Maps` `Socket.io`
+
+A home healthcare management platform consisting of caregiver and patient mobile applications with an administrative web dashboard.
+
+* 📱 Developed the **caregiver and patient mobile applications** using React Native.
+* 💻 Developed the **admin web dashboard using React.js**.
+* ☁️ Built both platforms around a unified **Firebase backend**.
+* 🔐 Implemented hierarchical **Role-Based Access Control (RBAC)** using Firebase Authentication and Firestore.
+* 👥 Implemented a role hierarchy where **admins create nurses, and nurses create and manage patients and caregivers**.
+* 📅 Built appointment scheduling functionality.
+* ✍️ Implemented digital signature verification.
+* 💬 Built real-time chat using **Socket.io**.
+* 🔔 Integrated push notifications.
+* 🗺️ Integrated **Google Maps** for live location tracking.
+* 🔥 Used **Firestore** for secure data management.
+* 🚀 Published and deployed the mobile application to the **iOS App Store and Google Play**.
 
 ---
 
 ## 🎓 Education
-**BS Information Technology** (2018 – 2022)
-Government College University Faisalabad (GCUF)
+
+### BS Information Technology
+
+**Government College University Faisalabad (GCUF)**
+**2018 – 2022**
+
+---
 
 ## 📜 Certifications
-- React Native — Udemy (2022)
-- Introduction to Generative AI — Google Cloud (2026)
+
+* ⚛️ **React Native** — Udemy **(2023)**
+* ⚛️ **React.js** — Udemy **(2024)**
+* 🤖 **Introduction to Generative AI** — Google Cloud **(2026)**
+
+---
 
 ## 🌐 Languages
-Urdu (Native) · English (Professional Working Proficiency)
+
+* 🇵🇰 **Urdu:** Native
+* 🌎 **English:** Professional Working Proficiency
 
 ---
 
 ## 🤝 Let's Connect & Collaborate
-I'm always open to talking about open-source projects, SaaS platforms, or custom automation builds.
 
-- 🌐 **GitHub:** [github.com/hassan-devstudio](https://github.com/hassan-devstudio)
-- 💼 **LinkedIn:** [linkedin.com/in/hassan-devstudio](https://www.linkedin.com/in/hassan-devstudio/)
-- 🌍 **Website:** [m-hassan.dev](https://m-hassan.dev)
-- 📧 **Email:** hassan.devstudio@gmail.com
-- 📞 **Contact:** +92 320 0501651
+I'm always open to discussing **open-source projects, SaaS platforms, AI-powered applications, and custom software solutions**.
+
+* 🌐 **GitHub:** [github.com/hassan-devstudio](https://github.com/hassan-devstudio)
+* 💼 **LinkedIn:** [linkedin.com/in/hassan-devstudio](https://linkedin.com/in/hassan-devstudio/)
+* 🌍 **Website:** [m-hassan.dev](https://m-hassan.dev)
+* 📧 **Email:** [hassan.devstudio@gmail.com](mailto:hassan.devstudio@gmail.com)
+* 📞 **Contact:** [+92 320 0501651](tel:+923200501651)
 
 ---
 
-### 💬 Engineering Motto
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 💬 Engineering Motto
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=radical)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hassan-devstudio&icon=0&color=0284c7" alt="Profile View Meter" />
